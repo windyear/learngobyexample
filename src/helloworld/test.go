@@ -195,5 +195,6 @@ func main(){
     //gobyexamplechapter7()
     //gobyexamplechapter8()
     //gobyexamplechapter9()
-    gobyexamplechapter10()
+    //gobyexamplechapter10()
+    gobyexamplechapter11()
 }
